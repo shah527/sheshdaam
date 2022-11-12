@@ -76,7 +76,7 @@ p {
   margin: 0 10px;
   border-radius: 50px;
   border: 2px solid #fff;
-  transition: all 200ms ease;
+  transition: all 3s ease;
   text-decoration: none;
   position: relative;
 }
