@@ -37,8 +37,8 @@ body {
   top: 50%;
   transform: translate(-50%, -50%);
   -webkit-transform: translate(-50%, -50%);
-  animation: fadeIn 4s ease;
-  -webkit-animation: fadeIn 4s ease;
+  animation: fadeIn 2s ease;
+  -webkit-animation: fadeIn 2s ease;
 }
 
 h1 {
